@@ -1,7 +1,7 @@
 
 ## Júlio César
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`**
 
 Olá! Sou Júlio César, um estudante de Análise e Desenvolvimento de Sistemas pela Unifametro e, nesse processo, estou conhecendo e explorando cada vez mais o universo da tecnologia, descobrindo áreas e habilidades que me despertam interesse e vontade de evoluir. Atualmente, estou ampliando meus conhecimentos através de um curso Full Stack na Digital College, com foco em prática intensiva e desenvolvimento completo de aplicações.
 
@@ -23,11 +23,12 @@ Olá! Sou Júlio César, um estudante de Análise e Desenvolvimento de Sistemas 
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <!-- <img align="center" alt="Typesript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 </div>
 <br>
 
-<div>
+<!-- <div>
     <h3>Status do Github</h3> <br/>
   <img 
     align="left" 
@@ -44,4 +45,4 @@ Olá! Sou Júlio César, um estudante de Análise e Desenvolvimento de Sistemas 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarfg2004&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</div>
+</div> -->
