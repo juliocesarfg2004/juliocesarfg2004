@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Olá! Sou Júlio César, um estudante de Análise e Desenvolvimento de Sistemas pela Unifametro e, nesse processo, estou conhecendo e explorando cada vez mais o universo da tecnologia, descobrindo áreas e habilidades que me despertam interesse e vontade de evoluir. Atualmente, estou ampliando meus conhecimentos através de um curso Full Stack na Digital College, com foco em prática intensiva e desenvolvimento completo de aplicações.
+Olá! Sou Júlio César, sou graduado em Análise e Desenvolvimento de Sistemas pela Unifametro e, nesse processo, estou conhecendo e explorando cada vez mais o universo da tecnologia, descobrindo áreas e habilidades que me despertam interesse e vontade de evoluir. Atualmente, estou ampliando meus conhecimentos através de um curso Full Stack na Digital College, com foco em prática intensiva e desenvolvimento completo de aplicações.
 
 #
 
