@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Olá! Sou Júlio César, sou graduado em Análise e Desenvolvimento de Sistemas pela Unifametro e, nesse processo, estou conhecendo e explorando cada vez mais o universo da tecnologia, descobrindo áreas e habilidades que me despertam interesse e vontade de evoluir. Atualmente, estou ampliando meus conhecimentos através de um curso Full Stack na Digital College, com foco em prática intensiva e desenvolvimento completo de aplicações.
+Olá! Sou Júlio César, graduado em Análise e Desenvolvimento de Sistemas pela UniFametro, com formação complementar em Desenvolvimento Full Stack. Já desenvolvi projetos como um questionário interativo baseado em um desafio da Rocketseat, onde apliquei conceitos de desenvolvimento front-end com HTML, CSS e JavaScript, além de lógica de programação, manipulação de DOM e integração com IA para geração de perguntas. Também utilizei GitHub e GitHub Pages para versionamento e publicação da aplicação.
 
 #
 
@@ -24,7 +24,7 @@ Olá! Sou Júlio César, sou graduado em Análise e Desenvolvimento de Sistemas 
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <!-- <img align="center" alt="Typesript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <img align="center" alt="Typesript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 <br>
 
